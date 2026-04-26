@@ -10,7 +10,9 @@ I am using this project to improve my documentation skills, get back into Python
 
 I used VS Code for this project.
 
-I used python as the programming language.
+Vs Code
+Python 3.9.6
+Git / Github
 
 # Useful Websites
 
